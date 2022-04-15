@@ -7,3 +7,8 @@
 @import "resume-item.scss";
 @import "bootstrap-overrides.scss";
 // Components
+@import
+    "base",
+    "layout",
+    "syntax-highlighting",
+    "bootstrap";
